@@ -48,7 +48,7 @@ export default class Header extends Component {
                 <p className="info">Senior Consultant <span>•</span> <em className="date">Jan 2021 – Aug 2021</em></p>
                 <p style={{'whiteSpace': 'pre-wrap'}}>
                   {"• Worked as a Full Stack Developer in Fintech Domain, gained expertise in FLEXCUBE - Oracle’s banking product.\n• Led a team of 4 developers to develop new features for one of the fastest growing small finance bank in India. \n• Worked on performance tuning of batch processing, reducing the average time by 20 percent."}</p>
-                <p className="info">Staff Consultant <span>•</span> <em className="date">Jan 2018 – Jan 2018</em></p>
+                <p className="info">Staff Consultant <span>•</span> <em className="date">Jan 2018 – Dec 2020</em></p>
                 <p style={{'whiteSpace': 'pre-wrap'}}>
                   {"• Developed features of banking modules like Payments, CASA, Loans, Term Deposit, CIF, Settlements and Reports and database objects (procedure, triggers, and functions) for functional processing of complex data.\n• Worked on time sensitive requirements based on RBI guidelines related to Loan’s moratorium due to Covid-19.Changes impacted around 2 million customer accounts of different client banks. Received an award of “The Wonderful Wizard” for my contribution.\n• Worked on time sensitive requirements based on RBI guidelines related to Loan’s moratorium due to Covid-19. Changes impacted around 2 million customer accounts of different client banks. Received an award of “The Wonderful Wizard” for my contribution."}</p>
                 <p className="info">Associate Consultant <span>•</span> <em className="date">Sept 2016 – Dec 2017</em></p>
