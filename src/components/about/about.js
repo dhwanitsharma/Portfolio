@@ -11,12 +11,8 @@ export default class Header extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>I am an Engineering Graduate with a major in Electronics and Telecommunication currently working in Oracle as Technical Consultant. My job profile requires me to work on JAVA, Oracle Database, and JavaScript. In addition, I have worked on various personal projects on Python and Machine Learning as I am interested in the future scope of these technologies.
-            In my teens, I was drawn to the computers due to my interest in video games. First Encounter Assault Recon (F.E.A.R), the popular game not only fired my imagination but also triggered my curiosity about the novelty of an interactive simulated world. I remember conjuring up multiple scenarios in my imagination, all of which were now evidently possible. 
-            The intuitive AI of the game and the way in which multiple variables and factors were taken into consideration in real-time was fascinating to my mind.
-            I want to contribute to the field of AI/ML and my aim is to gain expertise in natural language processing, neural networks and computer vision. 
-            As a passion project I am also working on a video Game which I hope to release in the near future.
-            </p>
+            <p style={{'whiteSpace': 'pre-wrap'}}>
+                  {"I am graduate student in University of Illinois Chicago pursuing master’s in Computer Science. The major focus of my master’s is on Artificial Intelligence and Machine Learning.\nI have worked as a Technical Consultant in Oracle. My job profile required me to work on JAVA, Oracle Database, and JavaScript. In addition, I have worked on various personal projects on Python and Machine Learning as I am interested in the future scope of these technologies. These projects are mentioned on the project section with the GitHub link for the source code.\nCurrently I am looking for a role as summer intern 2022. I am interested in working as a Data Scientist or as a Software Engineering Developer."}</p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>

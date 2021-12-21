@@ -22,7 +22,6 @@ export default class Intro extends Component {
           <li><a href="https://github.com/dhwanitsharma" target="_blank" rel ="noopener noreferrer"><i className="fa fa-github" /></a></li>
           <li><a href="https://www.linkedin.com/in/dhwanitsharma/" target="_blank" rel ="noopener noreferrer"><i className="fa fa-linkedin" /></a></li>
           <li><a href="https://www.instagram.com/dhwanitsharma/" target="_blank" rel ="noopener noreferrer"><i className="fa fa-instagram" /></a></li>
-          <li><a href="https://www.facebook.com/dhwanit.sharma/" target="_blank" rel ="noopener noreferrer"><i className="fa fa-facebook" /></a></li>
         </ul> {/* /intro-social */}      	
       </section> {/* /intro */}
       </React.Fragment>

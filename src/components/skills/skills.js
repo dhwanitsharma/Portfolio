@@ -47,7 +47,7 @@ export default class Header extends Component {
             <div className="item-service__content">
               <h4 className="item-title">Servers</h4>
               <p style={{'whiteSpace': 'pre-wrap'}}>
-                  {"WebLogic App Server\nTomcat Apache Serve"}</p>
+                  {"WebLogic App Server\nTomcat Apache Server"}</p>
             </div>
           </div>
         </div> {/* end services-list */}
